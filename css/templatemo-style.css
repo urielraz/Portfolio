@@ -275,6 +275,11 @@ video::-webkit-media-controls {
 .container_img:hover .middle {
   opacity: 1;
 }
+@media screen {
+  #welcome{
+    display: none;
+  }
+}
 
 #welcome{
 
