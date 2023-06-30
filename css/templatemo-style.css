@@ -35,6 +35,10 @@ video::-webkit-media-controls {
     display:none !important;
 }
 
+#opening_remarks{
+  font-size: x-large;
+}
+
 .overlay {
   position: absolute;
   top: 0;
