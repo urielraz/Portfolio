@@ -36,7 +36,19 @@ video::-webkit-media-controls {
 }
 
 #opening_remarks{
-  font-size: x-large;
+  font-size: xx-large;
+  margin: 16px;
+  padding: 10x;
+  line-height: 26pt;
+  justify-content: center;
+}
+
+#skills p{
+  font-size: 20px;
+  margin: 16px;
+  padding: 10x;
+  line-height: 19pt;
+  
 }
 
 .overlay {
