@@ -252,8 +252,8 @@ video::-webkit-media-controls {
 .text {
   background-color:  #ffbb05;
   color: white;
-  font-size: 18px;
-  padding: 30px 16px 16px 16px;
+  font-size: 16px;
+  padding: 25px 10px 10px 10px;
   border-radius: 9px;
 }
 .middle {
